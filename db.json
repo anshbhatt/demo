@@ -1,0 +1,86 @@
+{
+	"SmartForms": [
+		{
+		  "SmartFormId": 300100202611054,
+		  "ProcurementBUId": 204,
+		  "ProcurementBU": "Vision Operations",
+		  "SmartFormName": "CPA Based Smart Form 01",
+		  "InstructionText": "Created for AUT purpose",
+		  "LineTypeId": 1,
+		  "LineTypeCode": "Goods",
+		  "ItemDescription": "Active CPA based Request",
+		  "DescriptionEditableFlag": "Y",
+		  "RestrictToBrowsingCategoryId": null,
+		  "RestrictToBrowsingCategoryName": null,
+		  "CategoryId": 3095,
+		  "CategoryName": "Mechanical Gears",
+		  "CategoryEditableFlag": "Y",
+		  "CurrencyCode": "USD",
+		  "Currency": "US Dollar",
+		  "CurrencyEditableFlag": "Y",
+		  "Quantity": 10,
+		  "UOMCode": "BX5",
+		  "UOM": "Box of 5",
+		  "UOMEditableFlag": "Y",
+		  "UnitPrice": 20,
+		  "UnitPriceEditableFlag": "Y",
+		  "Amount": null,
+		  "AmountEditableFlag": "Y",
+		  "NegotiationRequiredFlag": "N",
+		  "NegotiationRequiredEditableFlag": "Y",
+		  "NegotiatedByPreparerFlag": "N",
+		  "NegotiatedEditableFlag": "Y",
+		  "SourceAgreementHeaderId": 300100203051123,
+		  "AgreementEditableFlag": "Y",
+		  "SourceAgreement": "1002695",
+		  "SupplierId": 300100203050987,
+		  "Supplier": "POR_CWB_SUPP001",
+		  "SupplierEditableFlag": "Y",
+		  "SupplierSiteId": null,
+		  "SupplierSite": null,
+		  "SupplierSiteEditableFlag": "Y",
+		  "SupplierContactId": null,
+		  "SupplierContact": null,
+		  "SupplierContactEditableFlag": "Y",
+		  "SupplierContactPhone": null,
+		  "SupplierContactPhoneEditableFlag": "Y",
+		  "SupplierContactFax": null,
+		  "SupplierContactFaxEditableFlag": "Y",
+		  "SupplierContactEmail": null,
+		  "SupplierContactEmailEditableFlag": "Y",
+		  "SupplierItemNumber": "CPA1",
+		  "SupplierItemEditableFlag": "Y",
+		  "Manufacturer": null,
+		  "ManufacturerEditableFlag": "Y",
+		  "ManufacturerPartNumber": null,
+		  "PartNumberEditableFlag": "Y",
+		  "CreatedBy": "CVRQST01",
+		  "CreationDate": "2020-02-06T09:14:42-08:00",
+		  "LastUpdateDate": "2020-09-22T07:53:41.305-07:00",
+		  "LastUpdatedBy": "CVRQST01",
+		  "links": [
+			{
+			  "rel": "self",
+			  "href": "http://slc10vpy.us.oracle.com:7011/fscmRestApi/resources/11.13.18.05/shoppingCatalogSmartFormDetails/300100202611054",
+			  "name": "shoppingCatalogSmartFormDetails",
+			  "kind": "item",
+			  "properties": {
+				"changeIndicator": "ACED0005737200136A6176612E7574696C2E41727261794C6973747881D21D99C7619D03000149000473697A657870000000017704000000017372001B6F7261636C652E6A626F2E646F6D61696E2E4E756C6C56616C75655899C1C58DAABEEB02000149000A6D53514C54797065496478700000000C78"
+			  }
+			},
+			{
+			  "rel": "canonical",
+			  "href": "http://slc10vpy.us.oracle.com:7011/fscmRestApi/resources/11.13.18.05/shoppingCatalogSmartFormDetails/300100202611054",
+			  "name": "shoppingCatalogSmartFormDetails",
+			  "kind": "item"
+			},
+			{
+			  "rel": "child",
+			  "href": "http://slc10vpy.us.oracle.com:7011/fscmRestApi/resources/11.13.18.05/shoppingCatalogSmartFormDetails/300100202611054/child/Attachments",
+			  "name": "Attachments",
+			  "kind": "collection"
+			}
+		  ]
+		}
+	]
+}
