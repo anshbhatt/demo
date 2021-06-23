@@ -6,7 +6,6 @@
 		  "ProcurementBU": "Vision Operations",
 		  "SmartFormName": "CPA Based Smart Form 01",
 		  "InstructionText": "Created for AUT purpose",
-		  "LineTypeId": 1,
 		  "LineTypeCode": "Goods",
 		  "ItemDescription": "Active CPA based Request",
 		  "DescriptionEditableFlag": true,
