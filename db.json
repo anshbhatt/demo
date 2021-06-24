@@ -209,7 +209,7 @@
 		  "SupplierContactPhoneEditableFlag": false,
 		  "SupplierContactFax": 239,
 		  "SupplierContactFaxEditableFlag": false,
-		  "SupplierContactEmail": email@zerodha.com,
+		  "SupplierContactEmail": "email@zerodha.com",
 		  "SupplierContactEmailEditableFlag": false,
 		  "SupplierItemNumber": "Brokerage",
 		  "SupplierItemEditableFlag": false,
