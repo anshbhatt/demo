@@ -203,7 +203,7 @@
 		  "SupplierSite": null,
 		  "SupplierSiteEditableFlag": true,
 		  "SupplierContactId": null,
-		  "SupplierContact": Zerodha,
+		  "SupplierContact": "Zerodha",
 		  "SupplierContactEditableFlag": false,
 		  "SupplierContactPhone": 1234567,
 		  "SupplierContactPhoneEditableFlag": false,
